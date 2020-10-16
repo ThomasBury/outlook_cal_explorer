@@ -16,10 +16,11 @@ You can either run the script using the python console, an IDE or use the corres
 ## Output
 
 It is currently very basic and will compute fairly the time spent in meetings, taking into account the overlaps, out-of-office, blank and canceled events.
- - Time spent in meetings overall, with fraction of typical working day duration
- - Time spent in agile related meetings (or whatever you want to report insted)
- - The meetings are flagged using a list of keywords that you can modify (the better you encode the subjects, the better it'll work).
+ - Time spent in meetings overall, with the fraction of typical working day duration
+ - Time spent in agile related meetings (or whatever you want to report instead)
+ - The meetings are flagged using a list of keywords that you can modify (the better you encode the subjects in outlook, the better it'll work).
  - The corresponding charts: daily, weekly and monthly
 
+E.G.
 
 ![Avatar](sample_pic/output_example.png) 
